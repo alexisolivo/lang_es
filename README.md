@@ -1,8 +1,14 @@
-lang_es
-=======
+# Language: Spanish (Latin America)
 
-Spanish Translation for Symphony CMS.
+Spanish translation of [Symphony](http://www.symphony-cms.com).  
 
-To enable the Spanish language, go to System -> Preferences -> System Language and choose "Spanish (Latinoamericano)" from the select box, then save the new settings. If nothing went wrong, your backend will be fully translated.
+## Installation & Updating
 
-Traducción no oficial para Symphony.
+Information about [installing and updating extensions](http://symphony-cms.com/learn/tasks/view/install-an-extension/) can be found in the Symphony documentation at <http://symphony-cms.com/learn/>.
+
+## History
+
+### Versión en desarrollo
+Actualmente estoy extendiendo el soporte para español latinoamericano, no usar en sitios de producción.
+
+
