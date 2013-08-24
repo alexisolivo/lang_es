@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="lang_es" status="beta" xmlns="http://symphonyextensions.com/schemas/extension/1.0/">
+	<name>Language: Spanish</name>
+	<description>Spanish translation for Symphony</description>
+	<repo type="github">https://github.com/persuativa/lang_es</repo>
+	<types>
+		<type>Translations</type>
+	</types>
+	<authors>
+		<author>
+			<name github="persuativa" symphony="alexisolivo">Web Development</name>
+			<website>http://persuativa.com</website>
+		</author>
+		<author>
+			<name github="persuativa" symphony="alexisolivo">Persuativa Skunkworks</name>
+			<website>http://persuativa.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="2.0" date="2013-04-02">
+			- Structural changes to match Symphony 2.3 requirements.
+		</release>
+		<release version="1.0" date="2011-06-24" min="2.0.3" max="2.0.6">
+			- Initial release.
+		</release>
+	</releases>
+</extension>

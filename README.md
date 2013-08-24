@@ -8,7 +8,6 @@ Information about [installing and updating extensions](http://symphony-cms.com/l
 
 ## History
 
-### Versión en desarrollo
-Actualmente estoy extendiendo el soporte para español latinoamericano, no usar en sitios de producción.
+2.0: Mayor changes, updated to work with Symphony 2.3
 
-
+1.0: Initial released: 2011-24-06
